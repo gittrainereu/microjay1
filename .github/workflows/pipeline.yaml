@@ -24,4 +24,4 @@ jobs:
         with:
           namespace: jochen
           manifests: |
-            manifests/
+            manifests
